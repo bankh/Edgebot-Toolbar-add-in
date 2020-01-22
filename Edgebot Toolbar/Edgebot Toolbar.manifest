@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"efda988b-29c6-442e-8769-d162671ecdb4",
+	"author":	"Ryan Perez",
+	"description":	{
+		"":	""
+	},
+	"version":	"0.0.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
