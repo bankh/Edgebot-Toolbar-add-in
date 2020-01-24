@@ -1,5 +1,5 @@
-#Author-Ryan Perez
-#Description-
+# Author: Ryan Perez (c) 2020
+# Description-
 
 import adsk.core, adsk.fusion, adsk.cam, traceback
 
